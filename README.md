@@ -1,12 +1,12 @@
 # awesome-python
 A collection of Python Resources
 
-Tutorials
+# Tutorials
 
-Books
+# Books
 
-Blogs
+# Blogs
 
-Podcasts
+# Podcasts
 
-Misc
+# Misc
