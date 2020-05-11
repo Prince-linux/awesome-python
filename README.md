@@ -7,6 +7,7 @@ A collection of Python Resources
 
 # Youtube
 * https://www.youtube.com/watch?v=JJmcL1N2KQs&t=8s
+* https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=19s
 
 # Books
 * Python for everyone - CAY HORSTMANN AND RANCE D.NECAISE
